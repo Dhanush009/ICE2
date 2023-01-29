@@ -1,9 +1,9 @@
-//
+// MAPD - 724 Advanced iOS Development
 //  AppDelegate.swift
-//  ICE2
+//  In Class Exercise 2
 //
-//  Created by Dhanush Sriram on 2023-01-28.
-//
+//  Dhanush Sriram
+//  301299251
 
 import UIKit
 
